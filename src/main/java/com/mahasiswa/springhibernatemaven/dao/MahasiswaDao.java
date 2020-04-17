@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  *
- * @author HP Undang Purnama
+ * @author ASUS Arika Widayanti
  */
 public interface MahasiswaDao {
     public List<Mahasiswa> getLagus();
