@@ -18,7 +18,7 @@ import org.springframework.web.servlet.view.XmlViewResolver;
 
 /**
  *
- * @author HP Undang Purnama
+ * @author ASUS Arika Widayanti
  */
 @Configuration
 @EnableWebMvc
