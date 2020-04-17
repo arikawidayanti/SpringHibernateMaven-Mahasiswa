@@ -8,7 +8,7 @@ import javax.persistence.Table;
 
 /**
  *
- * @author HP Undang Purnama
+ * @author ASUS Arika Widayanti
  */
 @Entity
 @Table(name = "MAHASISWA")
