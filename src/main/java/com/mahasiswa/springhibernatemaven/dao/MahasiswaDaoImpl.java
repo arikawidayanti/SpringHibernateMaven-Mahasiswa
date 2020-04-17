@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  *
- * @author HP Undang Purnama
+ * @author ASUS Arika Widayanti
  */
 @Repository
 public class MahasiswaDaoImpl implements MahasiswaDao{
