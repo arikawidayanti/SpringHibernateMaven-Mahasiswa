@@ -13,7 +13,7 @@ import org.springframework.web.servlet.DispatcherServlet;
 
 /**
  *
- * @author HP Undang Purnama
+ * @author ASUS Arika Widayanti
  */
 public class Initializer implements WebApplicationInitializer {
 
